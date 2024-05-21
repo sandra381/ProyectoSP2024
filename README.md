@@ -1,1 +1,1 @@
-# ProyectoSP2024
+# Proyecto SP 2024 - Heart Disease
